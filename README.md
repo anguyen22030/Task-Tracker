@@ -1,4 +1,4 @@
 # GymTracker
 
 # Description
-App that allows for easy asccess to log workout and view previous workouts. It will also send you reminders if you haven't been to the gym in a user selected amount of days
+Simple web app that allows for easy tracking of tasks to do in the future. My first REACT application
